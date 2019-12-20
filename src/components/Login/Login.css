@@ -1,0 +1,32 @@
+.centered{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    /* bring your own prefixes */
+    transform: translate(-50%, -50%);
+    width: 300px;
+}
+
+
+.input_box_size{
+    
+    width: 100%;
+}
+
+.logo_size{
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 75px;
+    height: 75px;
+}
+
+.company_name{
+    color: white;
+    text-align: center;
+    
+}
+
+.swap_btn_login{
+    width: 100% !important;
+    color: white !important;
+}
